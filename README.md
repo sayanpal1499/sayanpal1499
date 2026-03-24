@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile & Web App Development and IoT Projects<br>🌱 I’m currently learning AI/ML<br>
+🔭 I’m currently working on Mobile & Web App Development and IoT Projects<br>🌱 I’m currently learning AI/ML <br>
 
 
 ## 🌐 Socials:
